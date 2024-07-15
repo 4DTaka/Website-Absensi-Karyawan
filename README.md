@@ -1,2 +1,6 @@
 # Website-Absensi-Karyawan
-a fully worked website used for employees attendance
+Purpose :
+
+Able To Do :
+
+Not Yet Programmed :
