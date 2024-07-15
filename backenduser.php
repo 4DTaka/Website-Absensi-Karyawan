@@ -1,0 +1,10 @@
+<?php 
+session_start();
+if(!isset($_SESSION['session_ecode'])){
+    header("location:loginuser.php");
+    exit();
+}
+//print_r($_SESSION['session_ecode']);
+//print_r($_COOKIE);
+header("location:menuuser.php");
+?>
